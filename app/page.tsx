@@ -198,10 +198,11 @@ export default function LandingPage() {
                             }`}
                         >
                           <img
-                            src={encodeURI('/heroimg.jpeg')}
-                            alt="Dentist consulting with patient"
-                            className="w-full h-full object-cover"
+                            src={encodeURI('/Dental school🫶🏼🦷.jpg.jpeg')}
+                            alt="Close up healthy smile"
+                            className="w-full h-full object-contain"
                           />
+                          
                         </div>
 
                         {/* Product Image 3 - Data visualization */}
@@ -209,10 +210,11 @@ export default function LandingPage() {
                           className={`absolute inset-0 transition-all duration-500 ease-in-out ${activeCard === 2 ? "opacity-100 scale-100 blur-0" : "opacity-0 scale-95 blur-sm"
                             }`}
                         >
+                          
                           <img
-                            src={encodeURI('/heroimg')}
-                            alt="Close up healthy smile"
-                            className="w-full h-full object-contain"
+                            src={encodeURI('/heroimg.jpeg')}
+                            alt="Dentist consulting with patient"
+                            className="w-full h-full object-cover"
                           />
                         </div>
                       </div>
