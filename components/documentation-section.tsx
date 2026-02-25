@@ -28,7 +28,7 @@ export default function DocumentationSection() {
     {
       title: "5-Star Reputation",
       description: "Trusted by patients. Exceptional care,\nwarm service, real results.",
-      image: "/%23dentalschool %23doctor %23dentalcare %23work.jpg.jpeg",
+      image: "/heroimg.jpeg",
     },
     {
       title: "Women-Owned & Inclusive",
