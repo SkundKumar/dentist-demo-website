@@ -20,13 +20,13 @@ export function HeroSection() {
 
           {/* CTA Buttons */}
           <div className="flex justify-center gap-4 flex-wrap">
-            <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
               <Button className="h-9 sm:h-10 px-6 sm:px-12 bg-[#25D366] hover:bg-[#20b858] text-white rounded-full font-medium text-sm shadow-none flex items-center gap-2">
                 <FaWhatsapp aria-hidden className="w-4 h-4" />
                 <span className="hidden xs:inline">Book on WhatsApp</span>
               </Button>
             </a>
-            <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
               <Button className="h-9 sm:h-10 px-6 sm:px-12 bg-white hover:bg-gray-50 text-[#37322f] border border-[#37322f]/20 rounded-full font-medium text-sm shadow-sm flex items-center gap-2">
                 <FaWhatsapp aria-hidden className="text-[#25D366] w-4 h-4" />
                 <span className="hidden xs:inline">Book on WhatsApp</span>

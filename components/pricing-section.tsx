@@ -86,7 +86,7 @@ export default function PricingSection() {
                   </div>
                 </div>
 
-                <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="self-stretch">
+                <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="self-stretch">
                   <Button className="self-stretch px-4 py-[10px] bg-[#25D366] hover:bg-[#20b858] text-white rounded-[99px] flex justify-center items-center gap-2">
                     <FaWhatsapp aria-hidden className="w-4 h-4" />
                     Book on WhatsApp
@@ -145,7 +145,7 @@ export default function PricingSection() {
                 </div>
 
                 {/* CTA Button */}
-                <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="self-stretch">
+                <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="self-stretch">
                   <Button className="self-stretch px-4 py-[10px] bg-[#FBFAF9] hover:bg-gray-100 text-[#37322F] rounded-[99px] flex justify-center items-center gap-2">
                     <FaWhatsapp aria-hidden className="text-[#25D366] w-4 h-4" />
                     Book on WhatsApp
@@ -204,7 +204,7 @@ export default function PricingSection() {
                   </div>
                 </div>
 
-                <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="self-stretch">
+                <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="self-stretch">
                   <Button className="self-stretch px-4 py-[10px] bg-[#25D366] hover:bg-[#20b858] text-white rounded-[99px] flex justify-center items-center gap-2">
                     <FaWhatsapp aria-hidden className="w-4 h-4" />
                     Book on WhatsApp

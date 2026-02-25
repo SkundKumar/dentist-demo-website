@@ -21,7 +21,7 @@ const instrumentSerif = Instrument_Serif({
 export const metadata: Metadata = {
   title: "Glowdent Medicare - 24/7 Dental & Skin Care | Greater Noida",
   description:
-    "Experience exceptional dental and skin care at Glowdent Medicare. Open 24 hours, 5-star rated, women-owned, LGBTQ+ friendly. Book on WhatsApp: 097112 78427",
+    "Experience exceptional dental and skin care at Glowdent Medicare. Open 24 hours, 5-star rated, women-owned, LGBTQ+ friendly. Book on WhatsApp: 6267015783",
     generator: 'v0.app'
 }
 

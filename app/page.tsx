@@ -121,7 +121,7 @@ export default function LandingPage() {
                   </div>
                 </div>
                 <div className="h-6 sm:h-7 md:h-8 flex justify-start items-start gap-2 sm:gap-3">
-                  <a aria-label="Book on WhatsApp" href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
+                  <a aria-label="Book on WhatsApp" href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
                     <Button size="sm" className="px-2 sm:px-3 md:px-[12px] py-1 sm:py-[6px] bg-white text-[#37322F] hover:bg-gray-50 rounded-full shadow-sm flex items-center gap-2 -translate-y-1">
                       <FaWhatsapp aria-hidden className="text-[#25D366] w-4 h-4" />
                       <span className="hidden sm:inline">Book on WhatsApp</span>
@@ -161,7 +161,7 @@ export default function LandingPage() {
               <div className="w-full max-w-[497px] lg:w-[497px] flex flex-col justify-center items-center gap-6 sm:gap-8 md:gap-10 lg:gap-12 relative z-10 mt-6 sm:mt-8 md:mt-10 lg:mt-12">
                 <div className="backdrop-blur-[8.25px] flex justify-start items-center gap-4">
                   <div className="h-10 sm:h-11 md:h-12 px-6 sm:px-8 md:px-10 lg:px-12 py-2 sm:py-[6px] relative overflow-hidden rounded-full flex justify-center items-center">
-                    <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                    <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                       <Button className="h-10 px-8 bg-[#25D366] hover:bg-[#20b858] text-white rounded-full font-medium text-sm flex items-center gap-2">
                         <FaWhatsapp aria-hidden className="w-4 h-4" />
                         Book on WhatsApp

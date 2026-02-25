@@ -36,7 +36,7 @@ export function DashboardPreview() {
             <div className="flex-1 p-6">
               <div className="flex items-center justify-between mb-6">
                 <h2 className="text-xl font-semibold text-[#37322f]">Schedules</h2>
-                <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
                   <Button className="bg-[#25D366] hover:bg-[#20b858] text-white text-sm flex items-center gap-2">
                     <FaWhatsapp aria-hidden className="w-4 h-4" />
                     Book on WhatsApp

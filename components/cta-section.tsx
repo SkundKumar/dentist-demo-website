@@ -34,7 +34,7 @@ export default function CTASection() {
             </div>
           </div>
           <div className="w-full max-w-[497px] flex flex-col justify-center items-center gap-4">
-            <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="w-full">
+            <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="w-full">
               <Button className="w-full h-10 px-6 bg-[#25D366] hover:bg-[#20b858] text-white rounded-full font-medium text-sm flex items-center justify-center gap-2">
                 <FaWhatsapp aria-hidden className="w-4 h-4" />
                 Book on WhatsApp

@@ -108,10 +108,10 @@ export default function FooterSection() {
           <div className="flex flex-col justify-start items-start gap-3 flex-1 min-w-[180px]">
             <div className="text-[rgba(73,66,61,0.50)] text-sm font-medium leading-5 font-sans">Contact</div>
             <div className="flex flex-col justify-center items-start gap-2">
-              <a href="tel:+919711278427" className="text-[#49423D] text-sm font-normal leading-5 font-sans hover:text-[#37322F] transition-colors">
-                097112 78427
+              <a href="tel:+6267015783" className="text-[#49423D] text-sm font-normal leading-5 font-sans hover:text-[#37322F] transition-colors">
+                6267015783
               </a>
-              <a href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="text-[#49423D] text-sm font-normal leading-5 font-sans hover:text-[#37322F] transition-colors">
+              <a href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer" className="text-[#49423D] text-sm font-normal leading-5 font-sans hover:text-[#37322F] transition-colors">
                 WhatsApp
               </a>
               <div className="text-[#49423D] text-sm font-normal leading-5 font-sans">

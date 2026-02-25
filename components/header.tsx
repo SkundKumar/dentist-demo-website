@@ -14,7 +14,7 @@ export function Header() {
               <button className="text-[#37322f] hover:text-[#37322f]/80 text-sm font-medium">Contact</button>
             </div>
           </div>
-          <a aria-label="Book on WhatsApp" href="https://wa.me/919711278427?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
+          <a aria-label="Book on WhatsApp" href="https://wa.me/6267015783?text=Hi%20Glowdent%20Medicare%2C%20I%20would%20like%20to%20book%20an%20appointment." target="_blank" rel="noopener noreferrer">
             <Button variant="ghost" size="sm" className="text-[#37322f] hover:bg-[#37322f]/5 flex items-center gap-2">
               <FaWhatsapp aria-hidden className="text-[#25D366] w-4 h-4" />
               <span className="hidden sm:inline">Book on WhatsApp</span>
